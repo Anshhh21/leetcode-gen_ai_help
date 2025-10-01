@@ -4,14 +4,14 @@ A Chrome Extension that extracts coding problems from [LeetCode](https://leetcod
 
 ---
 
-## 🚀 Features
+## Features
 - Extracts the current LeetCode problem automatically.
 - Generates hints and multiple approaches (brute-force & optimized).
 - Choose multiple languages (Java, Python, C++).
 
 ---
 
-## 📦 Installation
+## Installation
 
 1. **Clone this repo**  
    ```
@@ -27,14 +27,14 @@ A Chrome Extension that extracts coding problems from [LeetCode](https://leetcod
 
 ---
 
-## ⚙️ Setup
+## Setup
 - Open the extension popup → click Settings
 - Enter your Gemini API key
-- Save settings → You're ready to go! ✅
+- Save settings → You're ready to go! 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Manifest v3
 - JavaScript / HTML / CSS
 - Chrome Extensions API
@@ -42,8 +42,3 @@ A Chrome Extension that extracts coding problems from [LeetCode](https://leetcod
 
 ---
 
-## 📚 Learning Note
-This extension was made while learning Chrome Extension development and working with APIs.  
-Much of the structure was inspired by YouTube tutorials, then modified and customized to fit my own learning journey.  
-📧 Reach out at vkshruti1208@gmail.com  
-Thanks for visiting!
